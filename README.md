@@ -1,1 +1,1 @@
-My personal website, Using Docusaurus.
+personal website, using Docusaurus.
