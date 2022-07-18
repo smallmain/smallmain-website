@@ -1,1 +1,1 @@
-personal website, using Docusaurus.
+personal website, using Gatsby.
